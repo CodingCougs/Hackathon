@@ -18,4 +18,10 @@ We are glad you are here.
 * 3:00 pm Begin Presentations
 * 4:00 pm Peace out
 
---- 
+---
+
+## Our Hackathon theme is Chatbots!
+
+
+
+
