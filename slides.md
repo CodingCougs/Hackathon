@@ -1,5 +1,7 @@
 # Coding Cougs
 
+* Swipe left or right to view!
+
 ---
 
 ## Welcome!
@@ -22,6 +24,35 @@ We are glad you are here.
 
 ## Our Hackathon theme is Chatbots!
 
+* Swipe up!
 
+----
 
+## Join our Special Hackathon Slack Team!
 
+https://join.slack.com/codingcougshackathon/shared_invite/MTkxNjQ2MDAzNTg1LTE0OTY0NjcyODUtMTk3OGNhMTliOA  <!-- .element: style=" word-wrap: break-word; " --> 
+
+----
+
+## Create your Team's Bot User
+
+https://join.slack.com/codingcougshackathon/shared_invite/MTkxNjQ2MDAzNTg1LTE0OTY0NjcyODUtMTk3OGNhMTliOA <!-- .element: style=" word-wrap: break-word; " --> 
+
+----
+
+## Missed out on the First Meeting ??
+
+https://codingcougs.github.io/First-meeting/#/ <!-- .element: style=" word-wrap: break-word; " --> 
+
+----
+
+## Missed out on the First Meeting ??
+
+https://codingcougs.github.io/First-meeting/#/ <!-- .element: style=" word-wrap: break-word; " --> 
+
+----
+
+## Want this presentation ??
+
+* https://codingcougs.github.io/Hackathon/# <!-- .element: style="  word-wrap: break-word; " --> 
+  

@@ -1,5 +1,6 @@
 {
   "theme": "moon",
-  "watch": true //,
+  "watch": true,
+  "verticalSeparator": "\n----\n"
  // "css": "css/font-awesome.min.css"
 }
